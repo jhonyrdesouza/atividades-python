@@ -1,0 +1,2 @@
+# atividades-python
+Faça um algoritmo em Python que leia de um (1) funcionário de uma empresa:  O valor de sua hora de trabalho: R$ / Hora;  Número de horas trabalhadas no mês.   Número de dependentes.  E, calcule e mostre na tela: seu salário bruto, líquido, benefícios e descontos, conforme a seguir:    BENEFÍCIOS:  Vale alimentação: R$ 850.00 + 1% do salário bruto;   DESCONTOS:  INSS: 8% do salário bruto;  PLANO DE SAÚDE: 2% do salário bruto + 1% do salário bruto por dependente.
